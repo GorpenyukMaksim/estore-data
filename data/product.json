@@ -111,7 +111,7 @@
     "shortDescription": "Доступный ноутбук для учёбы и повседневных задач.",
     "description": "15.6\" FHD, AMD Ryzen 5, 8 ГБ RAM, 256 ГБ SSD. Эргономичная клавиатура, веб-камера с шторкой, стереодинамики.",
     "images": [
-      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/Student Laptop Basic.webp"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["student", "budget", "amd", "education"],
@@ -136,7 +136,7 @@
     "shortDescription": "Профессиональный ноутбук для дизайнеров и видеомонтажёров.",
     "description": "16\" OLED 4K 120Hz, Intel Core i9, 64 ГБ RAM, 2 ТБ SSD, NVIDIA RTX 4070. Цветопередача 100% DCI-P3, Pantone Validated.",
     "images": [
-      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/Creator Laptop ProArt.webp"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["creator", "oled", "rtx4070", "professional"],
@@ -362,6 +362,7 @@
     }
   }
 ]
+
 
 
 
