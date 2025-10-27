@@ -61,7 +61,7 @@
     "shortDescription": "Сверхтонкий и лёгкий ноутбук для мобильной работы.",
     "description": "14\" OLED 2.8K, Intel Core i5, 16 ГБ RAM, 512 ГБ SSD. Толщина всего 12 мм, вес 1.1 кг, до 14 часов автономной работы.",
     "images": [
-      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/UltraBook Air S.webp"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["ultrabook", "thin", "lightweight", "oled"],
@@ -362,6 +362,7 @@
     }
   }
 ]
+
 
 
 
