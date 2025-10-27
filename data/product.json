@@ -36,7 +36,7 @@
     "shortDescription": "Игровой ноутбук с RTX 4060 для максимальной производительности.",
     "description": "16\" IPS 165Hz, Intel Core i9, 32 ГБ RAM, 1 ТБ SSD, NVIDIA RTX 4060 8GB. RGB-подсветка, система охлаждения с 4 вентиляторами.",
     "images": [
-      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/Gaming Laptop Xtreme.jpg"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["gaming", "rtx4060", "i9", "rgb"],
@@ -362,6 +362,7 @@
     }
   }
 ]
+
 
 
 
