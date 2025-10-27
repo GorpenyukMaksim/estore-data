@@ -86,7 +86,7 @@
     "shortDescription": "Надёжный ноутбук для бизнеса с расширенной гарантией.",
     "description": "15.6\" FHD, Intel Core i7, 16 ГБ RAM, 1 ТБ SSD, LTE модуль. Сканер отпечатков, ИК-камера для распознавания лица, защита от падения.",
     "images": [
-      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/Business Laptop Elite.webp"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["business", "lte", "security", "durable"],
@@ -362,6 +362,7 @@
     }
   }
 ]
+
 
 
 
