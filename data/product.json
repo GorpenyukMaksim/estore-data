@@ -11,7 +11,7 @@
     "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
     "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
     "images": [
-      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["intel", "16gb", "4k", "wifi6"],
@@ -36,7 +36,7 @@
     "shortDescription": "Игровой ноутбук с RTX 4060 для максимальной производительности.",
     "description": "16\" IPS 165Hz, Intel Core i9, 32 ГБ RAM, 1 ТБ SSD, NVIDIA RTX 4060 8GB. RGB-подсветка, система охлаждения с 4 вентиляторами.",
     "images": [
-      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["gaming", "rtx4060", "i9", "rgb"],
@@ -362,6 +362,7 @@
     }
   }
 ]
+
 
 
 
