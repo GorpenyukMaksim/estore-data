@@ -11,7 +11,7 @@
     "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
     "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
     "images": [
-      "https://raw.githubusercontent.com/GorpenyukMaksim/estore-data/main/laptop.png"
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["intel", "16gb", "4k", "wifi6"],
@@ -22,6 +22,131 @@
       "SSD": "512 ГБ NVMe",
       "Вес": "1.6 кг",
       "ОС": "Windows 11"
+    }
+  },
+  {
+    "id": "lp-002",
+    "name": "Gaming Laptop Xtreme",
+    "slug": "gaming-laptop-xtreme",
+    "price": 1800,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 89,
+    "shortDescription": "Игровой ноутбук с RTX 4060 для максимальной производительности.",
+    "description": "16\" IPS 165Hz, Intel Core i9, 32 ГБ RAM, 1 ТБ SSD, NVIDIA RTX 4060 8GB. RGB-подсветка, система охлаждения с 4 вентиляторами.",
+    "images": [
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["gaming", "rtx4060", "i9", "rgb"],
+    "specs": {
+      "Экран": "16\" IPS 165 Гц",
+      "Процессор": "Intel Core i9-13900HX",
+      "ОЗУ": "32 ГБ DDR5",
+      "SSD": "1 ТБ NVMe",
+      "Видеокарта": "NVIDIA RTX 4060 8GB",
+      "Вес": "2.3 кг"
+    }
+  },
+  {
+    "id": "lp-003",
+    "name": "UltraBook Air S",
+    "slug": "ultrabook-air-s",
+    "price": 950,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 67,
+    "shortDescription": "Сверхтонкий и лёгкий ноутбук для мобильной работы.",
+    "description": "14\" OLED 2.8K, Intel Core i5, 16 ГБ RAM, 512 ГБ SSD. Толщина всего 12 мм, вес 1.1 кг, до 14 часов автономной работы.",
+    "images": [
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["ultrabook", "thin", "lightweight", "oled"],
+    "specs": {
+      "Экран": "14\" OLED 2880×1800",
+      "Процессор": "Intel Core i5-1345U",
+      "ОЗУ": "16 ГБ LPDDR5",
+      "SSD": "512 ГБ NVMe",
+      "Вес": "1.1 кг",
+      "Автономность": "14 часов"
+    }
+  },
+  {
+    "id": "lp-004",
+    "name": "Business Laptop Elite",
+    "slug": "business-laptop-elite",
+    "price": 1400,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 45,
+    "shortDescription": "Надёжный ноутбук для бизнеса с расширенной гарантией.",
+    "description": "15.6\" FHD, Intel Core i7, 16 ГБ RAM, 1 ТБ SSD, LTE модуль. Сканер отпечатков, ИК-камера для распознавания лица, защита от падения.",
+    "images": [
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["business", "lte", "security", "durable"],
+    "specs": {
+      "Экран": "15.6\" FHD IPS",
+      "Процессор": "Intel Core i7-1360P",
+      "ОЗУ": "16 ГБ DDR4",
+      "SSD": "1 ТБ NVMe",
+      "Связь": "Wi-Fi 6E + LTE",
+      "Гарантия": "3 года"
+    }
+  },
+  {
+    "id": "lp-005",
+    "name": "Student Laptop Basic",
+    "slug": "student-laptop-basic",
+    "price": 600,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.2,
+    "reviewsCount": 156,
+    "shortDescription": "Доступный ноутбук для учёбы и повседневных задач.",
+    "description": "15.6\" FHD, AMD Ryzen 5, 8 ГБ RAM, 256 ГБ SSD. Эргономичная клавиатура, веб-камера с шторкой, стереодинамики.",
+    "images": [
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["student", "budget", "amd", "education"],
+    "specs": {
+      "Экран": "15.6\" FHD IPS",
+      "Процессор": "AMD Ryzen 5 7530U",
+      "ОЗУ": "8 ГБ DDR4",
+      "SSD": "256 ГБ NVMe",
+      "Вес": "1.8 кг",
+      "ОС": "Windows 11 Home"
+    }
+  },
+  {
+    "id": "lp-006",
+    "name": "Creator Laptop ProArt",
+    "slug": "creator-laptop-proart",
+    "price": 2200,
+    "currency": "RUB",
+    "inStock": false,
+    "rating": 4.9,
+    "reviewsCount": 23,
+    "shortDescription": "Профессиональный ноутбук для дизайнеров и видеомонтажёров.",
+    "description": "16\" OLED 4K 120Hz, Intel Core i9, 64 ГБ RAM, 2 ТБ SSD, NVIDIA RTX 4070. Цветопередача 100% DCI-P3, Pantone Validated.",
+    "images": [
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["creator", "oled", "rtx4070", "professional"],
+    "specs": {
+      "Экран": "16\" OLED 4K 120 Гц",
+      "Процессор": "Intel Core i9-13900H",
+      "ОЗУ": "64 ГБ DDR5",
+      "SSD": "2 ТБ NVMe",
+      "Видеокарта": "NVIDIA RTX 4070 8GB",
+      "Цветопередача": "100% DCI-P3"
     }
   },
   {
@@ -237,5 +362,6 @@
     }
   }
 ]
+
 
 
